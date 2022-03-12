@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "home",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -429,15 +429,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewFile-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewFile-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "farm.png",
         "kind": "image",
         "metadata": "",
@@ -534,6 +525,132 @@
         "name": "farm_house2.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "house.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "house.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wooden-fence.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wooden-fence.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wooden-fence-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wooden-fence-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "small-truck.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "small-truck.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "small-truck-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "small-truck-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -542,6 +659,220 @@
   "objectsGroups": [],
   "variables": [],
   "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "home",
+      "name": "home",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 608,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite",
+          "persistentUuid": "7de14a00-3525-4869-8ed1-4e6adb4223a5",
+          "width": 803,
+          "x": 0,
+          "y": -2,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 110,
+          "layer": "",
+          "locked": false,
+          "name": "Title",
+          "persistentUuid": "b8f38e73-2294-4da5-b291-93a52b959f5d",
+          "width": 327,
+          "x": 240,
+          "y": 146,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 106,
+          "layer": "",
+          "locked": false,
+          "name": "NewSprite",
+          "persistentUuid": "14e04512-de4f-4de3-b4ba-3960baeab23e",
+          "width": 106,
+          "x": 344,
+          "y": 274,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "height": 32,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "NewFile-1-0.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "Title",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "No Hunger No Poverty",
+          "font": "",
+          "characterSize": 30,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "play2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "NewSprite",
+                "",
+                "yes",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"LEVEL 1\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 9575432,
+          "ambientLightColorG": 9575432,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
     {
       "b": 247,
       "disableInputWhenNotFocused": true,
@@ -565,7 +896,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.30999999999999994,
+        "zoomFactor": 0.49627897163627965,
         "windowMask": true
       },
       "objectsGroups": [
@@ -645,436 +976,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "22e46c09-0b92-474b-b139-ee7a28fac131",
-          "width": 0,
-          "x": 742.246,
-          "y": 500.569,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Jumpthru",
-          "persistentUuid": "0ae5867c-f6bb-4458-b8bc-c5f8bb3a5338",
-          "width": 0,
-          "x": 933.139,
-          "y": 300.692,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Jumpthru",
-          "persistentUuid": "bbdb0455-667f-422d-9dcd-21ba15f60a40",
-          "width": 0,
-          "x": 755.6,
-          "y": 418,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Jumpthru",
-          "persistentUuid": "7b55098b-4ff4-4609-89df-197bd1a0de3b",
-          "width": 0,
-          "x": 847.908,
-          "y": 359.923,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "cfb83ad3-a943-4e6e-aeb7-d35ccdf7f90f",
-          "width": 0,
-          "x": 1045,
-          "y": 268,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "a62a7ebb-d296-4348-bcdf-c8469ac6769b",
-          "width": 0,
-          "x": 1115,
-          "y": 268,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
-          "height": 70,
-          "layer": "",
-          "locked": false,
-          "name": "TiledGrassPlatform",
-          "persistentUuid": "b3af049c-dacf-48fe-8973-5734e0eb6ce1",
-          "width": 4222.89,
-          "x": -583.046,
-          "y": 570,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 487.462,
+          "height": 571.4620361328125,
           "layer": "",
           "locked": false,
           "name": "TiledCastlePlatform",
           "persistentUuid": "05e616a8-abe0-4998-b72d-cbe45c41b146",
-          "width": 502.923,
-          "x": -572.923,
-          "y": 83,
-          "zOrder": 1,
+          "width": 579.9229736328125,
+          "x": -621.9229736328125,
+          "y": 10.5379638671875,
+          "zOrder": 2,
           "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "MovingPlatform",
-          "persistentUuid": "562e4641-884e-46ca-845b-482c9cb5962a",
-          "width": 0,
-          "x": 1195.45,
-          "y": 297.615,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "ed416599-13ff-475d-b91a-3e759a9bf8a9",
-          "width": 0,
-          "x": 1890.68,
-          "y": 499.692,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "9543dedc-5f1a-40de-954b-3f0ab5760631",
-          "width": 0,
-          "x": 1673.6,
-          "y": 289.692,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "31016c6a-b199-4ec3-aa20-666d68110687",
-          "width": 0,
-          "x": 1673.6,
-          "y": 359.692,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "5c1bd76b-d542-4fef-87ec-3494350c1668",
-          "width": 0,
-          "x": 1673.6,
-          "y": 499.692,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "b1019fc6-fd11-44eb-9441-6d26b59a5cc6",
-          "width": 0,
-          "x": 1673.6,
-          "y": 429.692,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "0f8e94bf-6a6e-4cf0-afe2-12c6a51205f1",
-          "width": 0,
-          "x": 1745.52,
-          "y": 499.385,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "d7d3655a-8a0d-4aa1-8a5f-73a19e21187d",
-          "width": 0,
-          "x": 1745.52,
-          "y": 429.385,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "ce10a257-6627-4480-9806-b3e14061004e",
-          "width": 0,
-          "x": 1818.75,
-          "y": 499.692,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "724c9654-aa90-4e34-85bb-174ed5c1e511",
-          "width": 0,
-          "x": 1817.75,
-          "y": 429.692,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoLeft",
-          "persistentUuid": "b32fbc8d-e909-4433-8366-fbce162d67af",
-          "width": 0,
-          "x": 1667.37,
-          "y": 291.246,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoRight",
-          "persistentUuid": "e34ebc68-d8d9-4c46-a87e-8227a7e47ef6",
-          "width": 0,
-          "x": 1176.98,
-          "y": 295.169,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "f1fb91c2-d269-47ab-95ba-ffb98b2e48a3",
-          "width": 0,
-          "x": 2974.06,
-          "y": 247,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "ff87eff8-6ab2-45fd-b6d7-635380a6bf1f",
-          "width": 0,
-          "x": 2593.6,
-          "y": 500.231,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "6bde59af-9825-4bb2-9a54-cf2aae33c031",
-          "width": 0,
-          "x": 2665.83,
-          "y": 430.231,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "dfd6b4d4-0877-4e63-9fd4-1fa3bdc70447",
-          "width": 0,
-          "x": 2665.6,
-          "y": 499.769,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "98ba0687-173c-415b-9a2f-a1f190a3eb69",
-          "width": 0,
-          "x": 1745.52,
-          "y": 359.385,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -1100,117 +1012,11 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Platform",
-          "persistentUuid": "b43ba0cf-8ac2-4e46-ad12-6215b493f50e",
-          "width": 0,
-          "x": 194,
-          "y": 500.569,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "SlimeWalk",
-          "persistentUuid": "d49b599a-8275-4e32-83c7-fbd2787fcd1a",
-          "width": 0,
-          "x": 687.677,
-          "y": 527.461,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "SlimeWalk",
-          "persistentUuid": "a58ea2fd-c543-494f-b3da-3283646c5041",
-          "width": 0,
-          "x": 286.2,
-          "y": 528.461,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoRight",
-          "persistentUuid": "ffd47f18-783e-41c3-837e-c724eb6f0f30",
-          "width": 0,
-          "x": 1971.78,
-          "y": 539.016,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoLeft",
-          "persistentUuid": "49fcae37-ac51-4e71-b0dd-1508e45655c8",
-          "width": 0,
-          "x": 2553.78,
-          "y": 538.016,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 61,
-          "layer": "",
-          "locked": false,
-          "name": "BackgroundObjects",
-          "persistentUuid": "08f1eeb1-a457-496e-b161-8c80b98c070c",
-          "width": 66,
-          "x": 1736.78,
-          "y": 298.016,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "BackgroundObjects",
           "persistentUuid": "cad94cea-07f3-4cdd-a94e-51c1f42e2e97",
           "width": 0,
-          "x": 611.785,
-          "y": 505.015,
+          "x": 376,
+          "y": 503,
           "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1241,8 +1047,8 @@
           "name": "BackgroundObjects",
           "persistentUuid": "7b621bcd-4f9e-4bf4-9c40-c5812ec18dbf",
           "width": 0,
-          "x": 536.785,
-          "y": 503.015,
+          "x": 306,
+          "y": 500,
           "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1273,9 +1079,9 @@
           "name": "BackgroundObjects",
           "persistentUuid": "b5d7941d-f5aa-4305-b09e-d4ed742ba7c1",
           "width": 0,
-          "x": 1413.78,
-          "y": 502.015,
-          "zOrder": -1,
+          "x": 1392,
+          "y": 501,
+          "zOrder": 3,
           "numberProperties": [
             {
               "name": "animation",
@@ -1315,30 +1121,9 @@
           "name": "BackgroundObjects",
           "persistentUuid": "dafde3c5-0d13-40e6-b6d8-43a6771c424b",
           "width": 58,
-          "x": 1435.78,
-          "y": 525.016,
+          "x": 1424,
+          "y": 524,
           "zOrder": -1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 47,
-          "layer": "",
-          "locked": false,
-          "name": "BackgroundObjects",
-          "persistentUuid": "3b2ac003-fd90-4e46-8d62-78053ad4f39b",
-          "width": 58,
-          "x": 1756.78,
-          "y": 314.016,
-          "zOrder": 1,
           "numberProperties": [
             {
               "name": "animation",
@@ -1387,202 +1172,10 @@
           "layer": "",
           "locked": false,
           "name": "Coin",
-          "persistentUuid": "5e5f93cf-b133-4f0b-8064-6d623c3a861b",
-          "width": 0,
-          "x": 1960,
-          "y": 420,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "a7c89362-1c5a-44fd-b0f9-c6c68a83f3e0",
-          "width": 0,
-          "x": 210,
-          "y": 420,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
           "persistentUuid": "4640d7c2-6ffd-46cd-893e-c78991728d61",
           "width": 0,
-          "x": 490,
-          "y": 490,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "a59a964e-1922-49ad-9ba4-61e82105d76b",
-          "width": 0,
-          "x": 420,
-          "y": 490,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "c8bd9849-e414-43df-9af1-3a4620aff6b7",
-          "width": 0,
-          "x": 773.846,
-          "y": 359.816,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "03e16798-a16f-4fe2-93b5-a64e846f5c9b",
-          "width": 0,
-          "x": 859.831,
-          "y": 296.262,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "1018e19d-fec3-47a8-8ea3-c6c1084eac59",
-          "width": 0,
-          "x": 953.292,
-          "y": 241.431,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "5f2845bb-d1a0-429c-a952-5b0519ce0cfb",
-          "width": 0,
-          "x": 350,
-          "y": 490,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoRight",
-          "persistentUuid": "53d6a3e4-bc3e-4ce5-a030-50c951a4eecd",
-          "width": 0,
-          "x": 1145.78,
-          "y": 205.016,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoLeft",
-          "persistentUuid": "b433127f-65f4-444c-94ff-cbc782239881",
-          "width": 0,
-          "x": 1704.78,
-          "y": 206.016,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoRight",
-          "persistentUuid": "74234a7b-3bfe-47c1-a7c8-a2eacf71d5c7",
-          "width": 0,
-          "x": 2808,
-          "y": 168,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoLeft",
-          "persistentUuid": "844861ff-98ba-4895-a26b-9127c1f01b33",
-          "width": 0,
-          "x": 3173,
-          "y": 172,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "a3e28934-cf65-412b-ae65-a970ce88531d",
-          "width": 0,
-          "x": 2834.06,
-          "y": 247,
+          "x": 833,
+          "y": 500,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1597,120 +1190,8 @@
           "name": "Platform",
           "persistentUuid": "2ebb125c-99c4-4c34-9fb4-93346da7bd2d",
           "width": 0,
-          "x": 2904.06,
-          "y": 247,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "723aeebf-13df-4659-b400-89e55803067e",
-          "width": 0,
-          "x": 2992,
-          "y": 192,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "3ff87891-d9c7-4103-a4f9-95141514f845",
-          "width": 0,
-          "x": 2849,
-          "y": 194,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 36,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "f621464b-01b6-4d12-8dfa-ac8707d6f4c5",
-          "width": 51,
-          "x": 3321,
-          "y": 423,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "SlimeWalk",
-          "persistentUuid": "1fb07204-66af-4481-87d9-af83a2380e2d",
-          "width": 0,
-          "x": 2526,
-          "y": 530,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "SlimeWalk",
-          "persistentUuid": "6bb52b07-e9c8-4d23-a97e-bdfd3bef73fa",
-          "width": 0,
-          "x": 1983,
-          "y": 525,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoRight",
-          "persistentUuid": "dc439743-08c3-46e2-8a46-f42ac9041d0f",
-          "width": 0,
-          "x": 265.877,
-          "y": 545.185,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GoLeft",
-          "persistentUuid": "eb5479e9-b562-4420-8c6b-5cc67b88afd1",
-          "width": 0,
-          "x": 732.6,
-          "y": 544.185,
+          "x": 2458,
+          "y": 505,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1773,73 +1254,9 @@
           "name": "JumpButton",
           "persistentUuid": "67cb62f2-5f86-4787-a534-5b8f5a2abc35",
           "width": 107.992,
-          "x": 659,
-          "y": 457,
+          "x": 639,
+          "y": 450.00799560546875,
           "zOrder": 23,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "ec3bfa6b-76a8-4c1d-8474-7b2e323a5a05",
-          "width": 0,
-          "x": 3935,
-          "y": 402,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "persistentUuid": "9ec884c2-d959-4975-b3c3-283ae6db1bb5",
-          "width": 0,
-          "x": 1890,
-          "y": 350,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 724,
-          "layer": "Background",
-          "locked": true,
-          "name": "TiledForestBackground",
-          "persistentUuid": "2e89b9b9-58d2-4ffc-bb04-973935cb322a",
-          "width": 744,
-          "x": 0,
-          "y": -110,
-          "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 322,
-          "layer": "",
-          "locked": false,
-          "name": "Ladder",
-          "persistentUuid": "7ac25505-19d2-4f57-b652-23b84f8c174b",
-          "width": 70,
-          "x": 1599,
-          "y": 248,
-          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1882,13 +1299,18 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "GoRight",
-          "persistentUuid": "5fcd4111-d503-4f5c-b3f6-1e80c21b7d4a",
+          "name": "Platform",
+          "persistentUuid": "f4fa1f51-7efb-43e2-803b-8ef44abe9679",
           "width": 0,
-          "x": 2788,
-          "y": 366,
+          "x": -686,
+          "y": 559,
           "zOrder": 1,
-          "numberProperties": [],
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -1898,45 +1320,417 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "GoLeft",
-          "persistentUuid": "6e55343a-aa3a-485f-bedb-064c8f42cb01",
+          "name": "Platform",
+          "persistentUuid": "70e88b08-e5aa-4a99-b92c-b5a5f09a2320",
           "width": 0,
-          "x": 3152.78,
-          "y": 370.016,
+          "x": -616,
+          "y": 560,
           "zOrder": 1,
-          "numberProperties": [],
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 1001,
-          "layer": "Background",
-          "locked": true,
-          "name": "TiledForestBackground",
-          "persistentUuid": "c9c08cc3-2a92-43eb-aecf-ff5829d17c4d",
-          "width": 15000,
-          "x": -567.0263061523438,
-          "y": -414.24298095703125,
-          "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 70,
+          "customSize": false,
+          "height": 0,
           "layer": "",
           "locked": false,
-          "name": "TiledGrassPlatform",
-          "persistentUuid": "21b9de29-ba59-418c-be54-a2e64de6be7c",
-          "width": 4222.89,
-          "x": 3643,
+          "name": "Platform",
+          "persistentUuid": "3acc9862-bd62-423a-b37e-6fa36822dfa8",
+          "width": 0,
+          "x": -546,
+          "y": 560,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "0f1af537-2bc4-4ba2-bc5b-4f532405b633",
+          "width": 0,
+          "x": 432,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "7e7c4dac-2c15-404d-96c7-0a83721d6358",
+          "width": 0,
+          "x": 362,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "bc87c6bb-c446-4a06-94ee-928f98a4b1b4",
+          "width": 0,
+          "x": 292,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "6638c6d6-8fd2-493e-84d8-e45d85f3f1a0",
+          "width": 0,
+          "x": 222,
+          "y": 564,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "baec9f8e-2f10-4ed7-83fe-411eb21f2f16",
+          "width": 0,
+          "x": 153,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "c74e0f85-9a62-4de2-8b70-ece2d5ff0108",
+          "width": 0,
+          "x": 83,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "8fc4ab8e-ce2a-4ace-a840-0338bacbcaf7",
+          "width": 0,
+          "x": 12.999984741210938,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "502e03d2-d646-410f-b33c-ccd863939f11",
+          "width": 0,
+          "x": -57.00001525878906,
+          "y": 564,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "2afff57f-c08f-41a1-a40c-5a1d24ab58ee",
+          "width": 0,
+          "x": -127,
+          "y": 563,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "3cc42737-c78a-45d5-a164-3c6950e80c9b",
+          "width": 0,
+          "x": -197,
+          "y": 563,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "06378f8e-cbcc-4f9f-8b58-29b59809f597",
+          "width": 0,
+          "x": -267,
+          "y": 563,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "94633339-dc8c-41fd-b767-cb8a2b2ebfb2",
+          "width": 0,
+          "x": -337,
+          "y": 562,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "7e3d266b-d46a-4102-8ad7-7da0e01ec448",
+          "width": 0,
+          "x": -406,
+          "y": 561,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "9ffae7ff-6169-4326-acd3-60d7fbc92165",
+          "width": 0,
+          "x": -476,
+          "y": 560,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "c78d5646-2b17-4e5e-a0c3-0256aa0fc4ff",
+          "width": 0,
+          "x": 501,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "38d7b473-53c2-408d-958c-0d91987e2048",
+          "width": 0,
+          "x": 571,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "faf6d5fd-6f33-49bc-8693-3989e1b50fcc",
+          "width": 0,
+          "x": 641,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "2bb925d4-3eba-4ffc-ab35-dd15e4fdf1f2",
+          "width": 0,
+          "x": 1619,
           "y": 571,
-          "zOrder": 3,
-          "numberProperties": [],
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -1947,28 +1741,17 @@
           "layer": "",
           "locked": false,
           "name": "Platform",
-          "persistentUuid": "2efb8e2e-21f4-47fc-80e7-00d54f082bbe",
+          "persistentUuid": "f0243dcc-f9a5-4412-9fcd-5d9d9d5dc5bf",
           "width": 0,
-          "x": 3652,
-          "y": 265,
-          "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 137,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "6ec91cfc-6676-462f-9db1-f945d2b7bb9d",
-          "width": 70,
-          "x": 3454,
-          "y": 428,
-          "zOrder": 31,
-          "numberProperties": [],
+          "x": 1549,
+          "y": 571,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -1979,12 +1762,248 @@
           "layer": "",
           "locked": false,
           "name": "Platform",
-          "persistentUuid": "aac757fb-02e5-44e6-a9d7-0ae230f1164b",
+          "persistentUuid": "c2112a0d-8af8-4ff6-aa6d-b47bc4e5c83a",
           "width": 0,
-          "x": 3580,
-          "y": 265,
-          "zOrder": 32,
-          "numberProperties": [],
+          "x": 1479,
+          "y": 571,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "8e7ab7cd-c48b-47c4-9978-82071b3170b7",
+          "width": 0,
+          "x": 1409,
+          "y": 570,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "e1d9c8a8-160d-437d-ae6a-7ea9ee766e21",
+          "width": 0,
+          "x": 1340,
+          "y": 570,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "14f11577-adff-418a-bf6e-3199f19f6f2f",
+          "width": 0,
+          "x": 1270,
+          "y": 570,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "18194f6f-cddc-4769-aad9-403d3648a2c6",
+          "width": 0,
+          "x": 1200,
+          "y": 569,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "4b28d55c-c727-4295-a920-45dafec09863",
+          "width": 0,
+          "x": 1130,
+          "y": 569,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "87be5a9b-5fdb-452e-850e-022277b6b6c3",
+          "width": 0,
+          "x": 1060,
+          "y": 568,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "cec23506-d46f-4682-9d8f-4e04f7a59f35",
+          "width": 0,
+          "x": 990,
+          "y": 568,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "92d6038c-cfee-4230-bd70-eaea7f4fa0bb",
+          "width": 0,
+          "x": 920,
+          "y": 568,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "417ac292-f416-4509-8375-cd7e5b8f8087",
+          "width": 0,
+          "x": 850,
+          "y": 567,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "00ba5b67-33e4-487d-9a34-547c794b4076",
+          "width": 0,
+          "x": 781,
+          "y": 566,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "a2bc7edd-45d7-492b-95ab-2d23d16db290",
+          "width": 0,
+          "x": 711,
+          "y": 565,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -1994,12 +2013,12 @@
           "height": 70,
           "layer": "",
           "locked": false,
-          "name": "TiledGrassPlatform",
-          "persistentUuid": "3a8d1a85-1bd1-497d-a5bb-31e53f99b275",
-          "width": 4222.89,
-          "x": 7854,
-          "y": 568,
-          "zOrder": 3,
+          "name": "fence",
+          "persistentUuid": "f9f2b58f-f1f4-478f-b7be-9b8f4ef4ad39",
+          "width": 453,
+          "x": 870,
+          "y": 498,
+          "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2007,15 +2026,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 50,
+          "height": 73,
           "layer": "",
           "locked": false,
-          "name": "TiledGrassPlatform",
-          "persistentUuid": "54909bff-7810-471c-8085-462e6c5b329d",
-          "width": 2523,
-          "x": 11843,
-          "y": 558,
-          "zOrder": 3,
+          "name": "fence",
+          "persistentUuid": "ed11157a-ff06-4623-8df4-c520956778e3",
+          "width": 117,
+          "x": 674,
+          "y": 497,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2024,157 +2043,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "b6dbf3dc-3194-4282-bdc1-a10d6179dd9d",
-          "width": 0,
-          "x": 5720,
-          "y": 491,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "46486536-c0c3-4e74-b9a1-b28d908af136",
-          "width": 0,
-          "x": 5961,
-          "y": 267,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "df968316-21ef-4d41-906f-14c882f7b721",
-          "width": 0,
-          "x": 6034,
-          "y": 267,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "e260b437-fd62-4e09-8350-e955fb4522d8",
-          "width": 0,
-          "x": 5227.3935546875,
-          "y": 373.6666564941406,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "ec40bf31-5b7a-41b0-9114-73f70bc405f6",
-          "width": 0,
-          "x": 5227.3935546875,
-          "y": 380.3333435058594,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 90,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "800b969d-6ca4-479e-afa4-222fc31941dc",
-          "width": 110,
-          "x": 5114,
-          "y": 373,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "f0669a21-aa4b-41ba-889f-a9baadd57445",
-          "width": 0,
-          "x": 6776,
-          "y": 487,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 110,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "21e75f7c-6d46-45b1-9f0f-9c344eadb284",
-          "width": 157,
-          "x": 8024,
-          "y": 457,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 243,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "persistentUuid": "c77fe86a-7f43-466d-b5f1-ac969ff7e98e",
-          "width": 297.2734375,
-          "x": 7061,
-          "y": 34,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 36,
           "layer": "",
           "locked": false,
           "name": "Coin",
-          "persistentUuid": "709f5d46-0152-4804-975d-aaf6188b9802",
-          "width": 51,
-          "x": 5207.66650390625,
-          "y": 243,
+          "persistentUuid": "3d7a5c3c-441c-4506-be0a-ca40791fac16",
+          "width": 0,
+          "x": 953,
+          "y": 484,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2183,15 +2058,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 36,
+          "height": 73,
           "layer": "",
           "locked": false,
-          "name": "Coin",
-          "persistentUuid": "47f7942b-79db-40e9-a6fa-28a577a9da35",
-          "width": 51,
-          "x": 6493.712890625,
-          "y": 363.93023681640625,
-          "zOrder": 1,
+          "name": "fence",
+          "persistentUuid": "71b56ce8-57fa-4ed5-88ec-d67a8484c92d",
+          "width": 39,
+          "x": 1391,
+          "y": 501,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2199,14 +2074,383 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 36,
+          "height": 32,
           "layer": "",
           "locked": false,
-          "name": "Coin",
-          "persistentUuid": "54937bb1-8458-478e-bc15-a5fee0b145e7",
-          "width": 51,
-          "x": 6184.41064453125,
-          "y": 156.9534912109375,
+          "name": "NewTiledSprite",
+          "persistentUuid": "12448320-d5db-4fe6-a7f2-88ee169ecfd8",
+          "width": 693,
+          "x": 702,
+          "y": 539,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "8369f901-c3d9-4ecc-af7a-ce278651486e",
+          "width": 0,
+          "x": 1689,
+          "y": 570,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "159bbb17-a9ba-4c1a-b608-5e4c85459a8d",
+          "width": 0,
+          "x": 1759,
+          "y": 571,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "5affb0a6-9299-401d-9dab-754d163825cf",
+          "width": 0,
+          "x": 2108,
+          "y": 572,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "42d2cec6-f971-4d79-a50b-5f1565bb61ee",
+          "width": 0,
+          "x": 2038,
+          "y": 572,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "67183437-658a-4d90-b031-c675c7162189",
+          "width": 0,
+          "x": 1968,
+          "y": 572,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "8b02ce31-9dcc-4e51-86ac-99b7661bb4cf",
+          "width": 0,
+          "x": 1898,
+          "y": 571,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "bda1899d-a301-4def-b436-558d9bda024d",
+          "width": 0,
+          "x": 1829,
+          "y": 571,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "5081c94b-e537-440d-9a25-66de94689868",
+          "width": 0,
+          "x": 2178,
+          "y": 572,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "db5af901-0090-47fe-bead-76861859f55e",
+          "width": 0,
+          "x": 2248,
+          "y": 573,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "b822d141-ab76-441a-bc8a-de0b7ea5ee38",
+          "width": 0,
+          "x": 2457,
+          "y": 574,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "a8840207-350f-4ea5-853d-bc4d58530fba",
+          "width": 0,
+          "x": 2387,
+          "y": 573,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "130a1e9a-fead-44c8-963d-2b4a0a14aaa8",
+          "width": 0,
+          "x": 2318,
+          "y": 573,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "62e0aa07-6a69-4aee-818b-393be5b8ba7e",
+          "width": 0,
+          "x": 2458,
+          "y": 437,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "3777d5aa-8a81-47d1-80ee-e4009d150b19",
+          "width": 0,
+          "x": 2457,
+          "y": 367,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "8bf2dbdb-e3e8-4cb3-92d8-44405ff2da30",
+          "width": 0,
+          "x": 2457,
+          "y": 298,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Platform",
+          "persistentUuid": "190ab32d-d4b2-487d-b02c-375e77f8e374",
+          "width": 0,
+          "x": 2457,
+          "y": 228,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 165,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "dffd899b-670d-4f64-b5b8-1b6f2fb2b94b",
+          "width": 386,
+          "x": 2003,
+          "y": 410,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Drive",
+          "persistentUuid": "04229842-03e0-4b66-8d6b-7175f5e784ab",
+          "width": 0,
+          "x": 2232,
+          "y": 514,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "load_crop",
+          "persistentUuid": "15374bbf-cd05-47cf-be45-eda931245a15",
+          "width": 0,
+          "x": 1937,
+          "y": 505,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2514,6 +2758,25 @@
           ]
         },
         {
+          "height": 70,
+          "name": "TiledCastlePlatform",
+          "tags": "",
+          "texture": "house.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 70,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
           "name": "Platform",
           "tags": "",
           "type": "Sprite",
@@ -2713,25 +2976,6 @@
               "name": "Platform",
               "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "height": 70,
-          "name": "TiledCastlePlatform",
-          "tags": "",
-          "texture": "farm_house.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 70,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
               "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
@@ -3786,22 +4030,6 @@
           ]
         },
         {
-          "height": 136,
-          "name": "TiledForestBackground",
-          "tags": "",
-          "texture": "farm3.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 136,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "HorizontalTiledSpriteParallax",
-              "type": "Parallax::HorizontalTiledSpriteParallax"
-            }
-          ]
-        },
-        {
           "name": "TopButton",
           "tags": "",
           "type": "Sprite",
@@ -3894,6 +4122,255 @@
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
+            }
+          ]
+        },
+        {
+          "height": 20,
+          "name": "fence",
+          "tags": "",
+          "texture": "wooden-fence-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 20,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "NewFile-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "NewTiledSprite2",
+          "tags": "",
+          "texture": "small-truck-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "name": "load_crop",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drive",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -5166,6 +5643,42 @@
               },
               "comment": "Note: see the events about the enemies to find out how the player is declared dead after touching an enemy",
               "comment2": ""
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "PlayerHitBox",
+                    "Drive",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"LEVEL 2\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
             }
           ],
           "parameters": []
@@ -5234,10 +5747,6 @@
           "type": "AnchorBehavior::AnchorBehavior"
         },
         {
-          "name": "HorizontalTiledSpriteParallax",
-          "type": "Parallax::HorizontalTiledSpriteParallax"
-        },
-        {
           "name": "LightObstacleBehavior",
           "type": "Lighting::LightObstacleBehavior"
         },
@@ -5278,7 +5787,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.6500000000000001,
+        "zoomFactor": 0.5074339237030583,
         "windowMask": true
       },
       "objectsGroups": [
